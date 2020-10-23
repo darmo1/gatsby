@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Blog de Danilo `,
+    siteTitle: 'Blog | Danilo Morales',
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Danilo A. Morales`,
+      summary: `Algunas veces escribo sobre tecnología y Ciencia de los materiales`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `La ingeniería de materiales y la tecnología nos acompaña!!`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `darmo10`,
     },
   },
   plugins: [
@@ -66,7 +67,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `./src/images/blog.svg`,
       },
     },
     `gatsby-plugin-react-helmet`,
