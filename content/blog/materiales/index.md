@@ -1,13 +1,15 @@
 ---
-title: Materiales en una planta de producción de alimentos.
+title: Materiales en una planta de producción de alimentos
 date: "2020-10-22T23:46:37.121Z"
 ---
 
 En el proceso de producción de un alimento es importante tener en cuenta tanto las materias primas como los materiales, objetos, equipos y equipamientos vinculado dentro de la cadena de producción.
 
->¿revisar los materiales? - Pero eso me lo suministra mi proveedor de confianza
-> Revisa que tu proveedor cumpla con las normativas estipuladas, para que no te lleves una sorpresa en la auditoria.
+> ¿Revisar los materiales?                                                                                                                                      Pero eso me lo suministra mi proveedor de confianza
+
+ Revisa que tu proveedor cumpla con las normativas estipuladas, para que no te lleves una sorpresa en la auditoria.
  
+![Texto alternativo](../../assets/analtecsas.png)
 
 Asi es, los elementos que hacen parte de las maquinarias hasta los materiales que hacen parte del envasado son disposición de los materiales, objetos, equipos y equipamientos en una la línea de producción y son vigilados y controlados por el invima.
 
@@ -36,9 +38,9 @@ Aspecto a tomar en cuenta son los límites de migración global, migración espe
 
 >>El Instituto Nacional de Vigilancia de Medicamentos y Alimentos (INVIMA) es la autoridad sanitaria de orden nacional encargada de realizar los debidos controles para el debido cumplimiento de los requisitos sanitarios de los materiales. 
 
-El INVIMA visita las empresas periódicamente para vigilar los diferentes procesos y asegurar que no se generen riegos públicos que puedan atentar contra la salud del consumidor.  
+El INVIMA visita las empresas periódicamente para vigilar los diferentes procesos y asegurar que no se generen riesgos públicos que puedan atentar contra la salud del consumidor.  
 
-![Texto alternativo](../../assets/analtecsas.png)
+
 
 
 
